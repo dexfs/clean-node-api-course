@@ -1,0 +1,6 @@
+{
+  "*.ts": [
+    "estlin 'src/**' --fix",
+    "git add"
+  ]
+}
